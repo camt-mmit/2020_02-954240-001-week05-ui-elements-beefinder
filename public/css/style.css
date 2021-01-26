@@ -1,0 +1,50 @@
+header {
+    text-align: center;
+}
+main {
+    margin-top: 16px;
+    text-align: center;
+}
+footer {
+    margin-top: 32px;
+    text-align: center;
+}
+table {
+    border-collapse: collapse;
+    margin: auto;
+}
+table caption {
+    font-weight: bold;
+    font-size: larger;
+}
+.white_table {
+    border: 1px solid white;
+    border-collapse: collapse;
+    text-align: left;
+}
+.point{
+    text-align: right;
+    font-weight: bold;
+}
+span {
+    color: blue;
+}
+
+.mul_table {
+    border: 1px solid black;
+    border-collapse: collapse;
+    width: 500px;
+    text-align: right;
+}
+.mul_select {
+    width: 500px;
+}
+.mul_select:onclick {
+   background-color: blue;
+}
+
+
+.area_input {
+    text-align: left;
+    width: 500px;
+}
